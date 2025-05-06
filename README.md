@@ -51,7 +51,7 @@ This project showcases an interactive Power BI dashboard created using the Super
 3. Explore visuals and apply filters as needed
 4. Analyze KPIs and trends to drive decisions
 
-![Power BI Sales Dashboard Overview](https://github.com/user-attachments/assets/feff9d99-e988-4116-93fc-eaa3abd471c5)#
+![Power BI Sales Dashboard Overview](https://github.com/user-attachments/assets/feff9d99-e988-4116-93fc-eaa3abd471c5)
 
 
 
